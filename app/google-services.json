@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "121809259586",
+    "firebase_url": "https://scorecard-94b91.firebaseio.com",
+    "project_id": "scorecard-94b91",
+    "storage_bucket": "scorecard-94b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121809259586:android:28d26353f0047265",
+        "android_client_info": {
+          "package_name": "com.karandeepsingh.scoreupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121809259586-kfhu9rqlu52s98hheqjnh1pdvuunet13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karandeepsingh.scoreupdate",
+            "certificate_hash": "61a69b936e08da33a35cee21683d56b645c5a4d1"
+          }
+        },
+        {
+          "client_id": "121809259586-t6g5gbo7ar0o68n2qtvhmiv79n75059c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karandeepsingh.scoreupdate",
+            "certificate_hash": "91efd1d4a7ecedb06beffe10103b876b32a86469"
+          }
+        },
+        {
+          "client_id": "121809259586-8mtiuklsaanq8h0elmpstecrnrdsf3ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_MHHyppST9U3Ne2dGKwV-rfbpT2GVEC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121809259586-8mtiuklsaanq8h0elmpstecrnrdsf3ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
